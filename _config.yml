@@ -7,7 +7,7 @@ Data Cleaning, Data Visualization, Excel, Power BI, Tableu, SQL, R.
   <br><br>
   <a href="https://www.linkedin.com/in/elizabeth-moreno24/">View My LinkedIn Profile</a> 
    <br><br>
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 
